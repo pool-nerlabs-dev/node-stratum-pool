@@ -25,7 +25,7 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/zone117x/node-stratum-pool.git"
+        "url": "git://github.com/pool-nerlabs-dev/node-stratum-pool"
     },
     "dependencies": {
         "multi-hashing": "git://github.com/pool-nerlabs-dev/node-multi-hashing.git",
