@@ -29,7 +29,7 @@
     },
     "dependencies": {
         "multi-hashing": "git://github.com/pool-nerlabs-dev/node-multi-hashing.git",
-        "bignum": "^0.13.1",
+        "bignum": "*",
         "base58-native": "*",
         "async": "*"
     },
